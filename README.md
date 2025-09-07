@@ -2,13 +2,13 @@
 
 Este proyecto es un ejercicio simple para practicar la conexión entre un proyecto JavaScript y una base de datos gestionada en **Supabase**.  
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 - JavaScript (ES Modules)
 - React Native
 - Expo
 - [Supabase](https://supabase.com/) como backend (Base de datos y API)
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 bd-app/
 ├── assets/            # Imágenes y otros recursos
 ├── node_modules/      # Dependencias del proyecto
@@ -22,7 +22,7 @@ bd-app/
 ├── package.json       # Dependencias y scripts
 └── .gitignore         # Archivos y carpetas ignoradas por git
 
-## 🚀 Configuración
+## Configuración
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/<tu-usuario>/<nombre-del-repo>.git
