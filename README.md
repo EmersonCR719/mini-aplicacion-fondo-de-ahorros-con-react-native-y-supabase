@@ -1,6 +1,6 @@
 # Mini Proyecto con Supabase
 
-Este proyecto es un ejercicio simple para practicar la conexión entre un proyecto JavaScript y una base de datos gestionada en **Supabase**.  
+Este proyecto es un ejercicio simple para practicar la conexión entre un proyecto JavaScript y una base de datos gestionada en Supabase.  
 
 ## Tecnologías utilizadas
 - JavaScript (ES Modules)
